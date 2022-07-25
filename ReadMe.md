@@ -100,7 +100,7 @@
 ### **Code:**
 - <a href="https://github.com/Armoghan-ul-Mohmin/Student-Record-Keeping-System/blob/main/Main.sql">Student Record Keeping System</a>
 - <a href="https://github.com/Armoghan-ul-Mohmin/Student-Record-Keeping-System/blob/main/Docs/Tables.sql">Tables</a>
-- <a href="https://github.com/Armoghan-ul-Mohmin/Student-Record-Keeping-System/blob/main/Docs/Primary%20Keys.sql">Foreign Keys</a>
+- <a href="https://github.com/Armoghan-ul-Mohmin/Student-Record-Keeping-System/blob/main/Docs/Primary%20Keys.sql">Primary Keys</a>
 - <a href="https://github.com/Armoghan-ul-Mohmin/Student-Record-Keeping-System/blob/main/Docs/Foreign%20Keys.sql">Foreign Keys</a>
 - <a href="https://github.com/Armoghan-ul-Mohmin/Student-Record-Keeping-System/blob/main/Docs/Dumbing%20Values.sql">Values</a>
 - <a href="https://github.com/Armoghan-ul-Mohmin/Student-Record-Keeping-System/blob/main/Docs/Procedure.sql">Procedure</a>
