@@ -107,4 +107,3 @@
 - <a href="https://github.com/Armoghan-ul-Mohmin/Student-Record-Keeping-System/blob/main/Docs/Joins.sql">Joins</a>
 
 
-### **Normalization:**
