@@ -1,5 +1,6 @@
 
-SELECT column_name(s)
-FROM table1
-INNER JOIN table2
-ON table1.column_name = table2.column_name;
+Create View ExamViwe
+SELECT (Student_ID , Student_Name , Address , Contact_No , Departement_ID , Course_ID)
+FROM Student
+INNER JOIN Exam
+ON Student.column_name = Exam.column_name;
