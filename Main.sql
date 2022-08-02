@@ -169,11 +169,10 @@ ________________________________________________________________________________
 -- Dumping Data into Student Table
 
 INSERT INTO Student
-
 VALUES
-    (1 , 'Armoghan'  , 'Lahore' , 03330000000 2 , 3 ),
+    (1 , 'Armoghan'  , 'Lahore' , 03330000000 ,2 , 3 ),
 
-    (2 , 'Aftab Hussain' , 'Lahore' , 03330000001 2 , 3 );
+    (2 , 'Aftab Hussain' , 'Lahore' , 03330000001 , 2 , 3 );
 ________________________________________________________________________________
 
 -- Dumping Data into Department Table
@@ -281,6 +280,13 @@ AS
 SELECT * FROM Exam
 ________________________________________________________________________________
 
+-- Inner Join On Student Table And Exam Table
+
+SELECT Student.Student_ID  ,Exam.Exam_ID
+FROM Student
+INNER JOIN Exam 
+ON Student.Student_ID = Exam.Exam_ID;
+________________________________________________________________________________
 
 
  EXEC Admin_Table
