@@ -106,4 +106,4 @@
 - <a href="/Docs/Creating View.sql">Views</a>
 
 
-### **Normalization:**
+
